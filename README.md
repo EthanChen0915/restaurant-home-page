@@ -1,5 +1,10 @@
 # Getting Started with Create React App
+
+
 [click here](https://ethanchen0915.github.io/restaurant-home-page/)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
